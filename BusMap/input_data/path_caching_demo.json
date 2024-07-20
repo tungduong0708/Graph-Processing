@@ -1,0 +1,5281 @@
+{
+    "Quận 1": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                7265
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                7265
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1297
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                89
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                89
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1297
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1301
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                31
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                31
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1096
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                89
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                434
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                433
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận Phú Nhuận": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                231
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                258
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                256
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                60
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                476
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                60
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2060.1579349085177,
+            "path": [
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận Gò Vấp": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                57
+            ]
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                57
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                57
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                57
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                258
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                57
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                57
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                60
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                60
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                57
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                476
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                57
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                57
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                223
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                60
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                60
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                60
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                223
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2060.1579349085177,
+            "path": [
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 12": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                946
+            ]
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                946
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                946
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                946
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                946
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2252
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                946
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                946
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                174
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                946
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                976
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                976
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                174
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2252
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1115
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2781
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                213
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                946
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                174
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2060.1579349085177,
+            "path": [
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 3": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                234
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                234
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                234
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                234
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                234
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                234
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1096
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2707
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                233
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2060.1579349085177,
+            "path": [
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 5": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                14
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                14
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                14
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                14
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                14
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                139
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                14
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                14
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                139
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                14
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                14
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                14
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 1054.5771914797463,
+            "path": [
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 6": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                437
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                437
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                437
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                437
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                117
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2352.1701482913054,
+            "path": [
+                1451,
+                27,
+                7265,
+                1256,
+                32,
+                2114,
+                2115,
+                2116,
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 10": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1397
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                731
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                446
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1397
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                393
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                510
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1008
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                731
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1920
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1920
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                731
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1008
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1008
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                510
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                35
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2060.1579349085177,
+            "path": [
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận Tân Bình": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                258
+            ]
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                911
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                258
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                258
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                258
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                258
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                270
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                258
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                911
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1920
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1920
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                606
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                258
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                258
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                606
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2060.1579349085177,
+            "path": [
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Huyện Hóc Môn": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1920
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1920
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                166
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1155
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2060.1579349085177,
+            "path": [
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận Tân Phú": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1396
+            ]
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                175
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                175
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                175
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                175
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                175
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                175
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1920
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                175
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                175
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                271
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2352.1701482913054,
+            "path": [
+                1451,
+                27,
+                7265,
+                1256,
+                32,
+                2114,
+                2115,
+                2116,
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận Bình Thạnh": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                301
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                301
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                365
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                3176
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                365
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                365
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                301
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                3176
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                476
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                300
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1874
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                365
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                3176
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                365
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                301
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                365
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 2": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                418
+            ]
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                421
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                483
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                483
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                418
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                418
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                418
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                421
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                483
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                483
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                483
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                418
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                418
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                483
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                418
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                418
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                418
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 9": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                481
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                481
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                483
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                481
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                481
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                483
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                481
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                485
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                483
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2796.660922659191,
+            "path": [
+                2703,
+                79,
+                76,
+                853,
+                856,
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận Thủ Đức": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                497
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1874
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                488
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Ngoại thành": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 11": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2405
+            ]
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                281
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                617
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                8
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2352.1701482913054,
+            "path": [
+                1451,
+                27,
+                7265,
+                1256,
+                32,
+                2114,
+                2115,
+                2116,
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 8": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                501
+            ]
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                501
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                499
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                501
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                501
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                501
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                501
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                476
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                432
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                501
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                501
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                501
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                499
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                499
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                834
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 1054.5771914797463,
+            "path": [
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận Bình Tân": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                725
+            ]
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                725
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                725
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                3404
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                725
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                725
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                725
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                725
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2309
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                7141
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                725
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                731
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                725
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                725
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2309
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2352.1701482913054,
+            "path": [
+                1451,
+                27,
+                7265,
+                1256,
+                32,
+                2114,
+                2115,
+                2116,
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Huyện Bình Chánh": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                7039
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                706
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                713
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                637
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1451
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                7039
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                7039
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 1054.5771914797463,
+            "path": [
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Huyện Củ Chi": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1239
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1239
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                7617
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1239
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1239
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1239
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1239
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1239
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1239
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1239
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1239
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                7617
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                7617
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 2060.1579349085177,
+            "path": [
+                855,
+                857,
+                858,
+                860,
+                859,
+                843,
+                2122,
+                2123,
+                2125,
+                2124,
+                2126,
+                2130,
+                2127,
+                2128,
+                2132,
+                2131,
+                2135,
+                2133,
+                2136,
+                2134,
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 4": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                859
+            ]
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                851
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                851
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                851
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                851
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                859
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2028
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2028
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                851
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1297
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2028
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                851
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                31
+            ]
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                31
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                851
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2028
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                859
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2028
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                859
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1297
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                860
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 1054.5771914797463,
+            "path": [
+                1362,
+                1358,
+                1360,
+                1366,
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Quận 7": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1297
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1297
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                848
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": true,
+            "time": 875.446655744051,
+            "path": [
+                1055,
+                1058,
+                1061,
+                1063,
+                1060,
+                1065,
+                1062,
+                1066,
+                1064,
+                2138,
+                2137,
+                2141,
+                2139,
+                2144,
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Huyện Nhà Bè": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1132
+            ]
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1379
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1379
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1379
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1132
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1379
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1379
+            ]
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": true,
+            "time": 332.15683509749607,
+            "path": [
+                1379,
+                27,
+                7265,
+                31
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1379
+            ]
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1132
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1132
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                1132
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                3662
+            ]
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Huyện Cần Giờ": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": true,
+            "time": 1735.0512606095826,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851
+            ]
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": true,
+            "time": 1735.0512606095826,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851
+            ]
+        },
+        "Quận 12": {
+            "have_fixed_point": true,
+            "time": 1735.0512606095826,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851
+            ]
+        },
+        "Quận 3": {
+            "have_fixed_point": true,
+            "time": 1735.0512606095826,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851
+            ]
+        },
+        "Quận 5": {
+            "have_fixed_point": true,
+            "time": 744.0231291894357,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365
+            ]
+        },
+        "Quận 6": {
+            "have_fixed_point": true,
+            "time": 1886.0715073835424,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851,
+                2028
+            ]
+        },
+        "Quận 10": {
+            "have_fixed_point": true,
+            "time": 1886.0715073835424,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851,
+                2028
+            ]
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": true,
+            "time": 1735.0512606095826,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851
+            ]
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": true,
+            "time": 2126.2326993946754,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851,
+                2028,
+                7269,
+                1944,
+                1297
+            ]
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": true,
+            "time": 1886.0715073835424,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851,
+                2028
+            ]
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": true,
+            "time": 2340.211970729464,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851,
+                1195,
+                1193,
+                1379,
+                27,
+                7265,
+                31
+            ]
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": true,
+            "time": 1886.0715073835424,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851,
+                2028
+            ]
+        },
+        "Quận 8": {
+            "have_fixed_point": true,
+            "time": 744.0231291894357,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365
+            ]
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": true,
+            "time": 1886.0715073835424,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851,
+                2028
+            ]
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": true,
+            "time": 744.0231291894357,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365
+            ]
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": true,
+            "time": 2126.2326993946754,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365,
+                2175,
+                2178,
+                2179,
+                2180,
+                2181,
+                2182,
+                2183,
+                2184,
+                2189,
+                2185,
+                2187,
+                2190,
+                2188,
+                848,
+                847,
+                850,
+                849,
+                852,
+                851,
+                2028,
+                7269,
+                1944,
+                1297
+            ]
+        },
+        "Quận 4": {
+            "have_fixed_point": true,
+            "time": 744.0231291894357,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146,
+                1150,
+                1364,
+                1363,
+                1367,
+                1365
+            ]
+        },
+        "Quận 7": {
+            "have_fixed_point": true,
+            "time": 457.98355340067616,
+            "path": [
+                2174,
+                3689,
+                2176,
+                2177,
+                1141,
+                1143,
+                1142,
+                1144,
+                1145,
+                1146
+            ]
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": [
+                2174
+            ]
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    },
+    "Học Sinh": {
+        "Quận 1": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Phú Nhuận": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Gò Vấp": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 12": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 3": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 5": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 6": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 10": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Bình": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Hóc Môn": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Tân Phú": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Thạnh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 2": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 9": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Thủ Đức": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Ngoại thành": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 11": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 8": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận Bình Tân": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Bình Chánh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Củ Chi": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 4": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Quận 7": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Nhà Bè": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Huyện Cần Giờ": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        },
+        "Học Sinh": {
+            "have_fixed_point": false,
+            "time": 0,
+            "path": []
+        }
+    }
+}
