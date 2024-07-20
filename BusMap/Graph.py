@@ -174,7 +174,7 @@ class Graph:
         if not path:
             print(f'No path found from {start_stop} to {end_stop}!')
             return 0, path
-        # print(shortest_time[end_stop], path) 
+        print(shortest_time[end_stop], path) 
         return shortest_time[end_stop], path  
 
     def get_path(self, current_vertex, parents):
