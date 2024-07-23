@@ -710,6 +710,7 @@ class Graph:
 
     def bidirectional_dijkstra(self, source_node, target_node):
         vertices = list(self.G.nodes())
+        L = set()
         visited_start = set()
         visited_end = set()
         parents1 = {}
@@ -728,6 +729,8 @@ class Graph:
                 _, current_vertex = heapq.heappop(pq_start)
                 if current_vertex in visited_start:
                     continue
+                if current_vertex in visited_end:
+                    L.add(current_vertex)
                 visited_start.add(current_vertex)
 
                 for neighbor in self.G.neighbors(current_vertex):
@@ -743,6 +746,8 @@ class Graph:
                 _, current_vertex = heapq.heappop(pq_end)
                 if current_vertex in visited_end:
                     continue
+                if current_vertex in visited_start:
+                    L.add(current_vertex)
                 visited_end.add(current_vertex)
 
                 for neighbor in self.G.predecessors(current_vertex):
@@ -755,7 +760,6 @@ class Graph:
                         dist2[neighbor] = new_cost
                         heapq.heappush(pq_end, (new_cost, neighbor))
 
-        L = [v for v in self.G.nodes if dist1[v] != float('inf') and dist2[v] != float('inf')]
         if not L:
             return 0, []
 
